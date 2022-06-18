@@ -1,16 +1,18 @@
-### Hi there 👋
+# Julien Klaus
 
-<!--
-**julien-klaus/julien-klaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on SQL-algorithms 
+- 🌱 I’m currently learning Kubernetes
+- 💬 Ask me about anything food related
+- 📫 How to reach me: best via e-mail
+- ⚡ Fun fact: I like myths a lot
 -->
+
+If you like code generation, SQL an compiler construction you may are right.
+
+## Connect with me
+* E-mail: julien.klaus@gmx.de
+* LinkedIn: https://www.linkedin.com/in/julien-klaus-679a041a6/
+* Website: https://www.ti2.uni-jena.de/julien-klaus
+
+
+
