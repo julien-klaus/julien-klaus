@@ -7,7 +7,13 @@
 - ⚡ Fun fact: I like myths a lot
 -->
 
-If you like code generation, SQL an compiler construction you may are right.
+## Parsgen
+[Parsgen](Parsgen.ti2.uni-jena.de) allows you to generate, diagrams, code and samples from a grammar.
+
+## Lina
+[Lina](lina.ti2.uni-jena.de) is a tool simplifying the development of mathematical expressions by compiling them into efficient code.
+
+Feel free to contact me if you are interested in some of my projects.
 
 ## Connect with me
 * E-mail: julien.klaus@gmx.de
