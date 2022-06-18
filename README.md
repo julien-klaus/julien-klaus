@@ -8,10 +8,10 @@
 -->
 
 ## Parsgen
-[Parsgen](www.parsgen.ti2.uni-jena.de) allows you to generate, diagrams, code and samples from a grammar.
+[Parsgen](http://www.parsgen.ti2.uni-jena.de) allows you to generate, diagrams, code and samples from a grammar.
 
 ## Lina
-[Lina](www.lina.ti2.uni-jena.de) is a tool simplifying the development of mathematical expressions by compiling them into efficient code.
+[Lina](http://www.lina.ti2.uni-jena.de) is a tool simplifying the development of mathematical expressions by compiling them into efficient code.
 
 Feel free to contact me if you are interested in some of my projects.
 
