@@ -1,7 +1,7 @@
 # Julien Klaus
 
-- 🔭 I’m currently working on SQL-algorithms and graph neural networks
-- 🌱 I’m currently learning Docker und GNNs
+- 🔭 I’m currently working on SQL-algorithms and contraction path algorithms
+- 🌱 I’m currently learning Docker and improve my C++ knowledge
 - 💬 Ask me about anything food related
 - 📫 How to reach me: best via e-mail
 - ⚡ Fun fact: I like myths a lot
