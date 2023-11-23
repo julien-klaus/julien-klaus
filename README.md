@@ -1,7 +1,6 @@
 # Julien Klaus
 
-- 🔭 I’m currently working on SQL-algorithms and contraction path algorithms
-- 🌱 I’m currently learning Docker and improve my C++ knowledge
+- 🔭 I’m currently working on Einsum
 - 💬 Ask me about anything food related
 - 📫 How to reach me: best via e-mail
 - ⚡ Fun fact: I like myths a lot
@@ -17,9 +16,8 @@
 
 Feel free to contact me if you are interested in some of my projects.
 
-
 ## Connect with me
-* E-mail: julien.klaus@gmx.de
+* E-mail: julienklaus@acm.org
 * LinkedIn: https://www.linkedin.com/in/julien-klaus-679a041a6/
 * Website: https://www.ti2.uni-jena.de/julien-klaus
 
